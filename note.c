@@ -4,6 +4,8 @@ Touched by my second account!!
 
 int main()
 {
+	printf("두 정수를 입력바ㄷ아 그 합과 곱의 값을 보여주는 프로그ㄹ 입니다.");
+	
 	int a, b;
 	printf("input a number : ");
 	scanf("%d", &a);
